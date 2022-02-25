@@ -2,6 +2,8 @@
 Result by Run AppZ.java
 https://github.com/Snegnyibarsik/HomeWork/tree/Hiber/src/main/java/Atutorial/Ahibernate
 
+!!!!Please push RAW button!!!!
+
 SQL DB: 
  
 -Person: id 1, name Николай, iid 15.
