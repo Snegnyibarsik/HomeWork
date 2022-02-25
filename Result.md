@@ -2,7 +2,7 @@
 Result by Run AppZ.java
 https://github.com/Snegnyibarsik/HomeWork/tree/Hiber/src/main/java/Atutorial/Ahibernate
 
-!!!!Please push RAW button!!!!
+!!!!Please push RAW button or Source blob!!!!
 
 SQL DB: 
  
