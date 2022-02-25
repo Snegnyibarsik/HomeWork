@@ -1,5 +1,6 @@
 # HomeWork
 Result by Run AppZ.java
+https://github.com/Snegnyibarsik/HomeWork/tree/Hiber/src/main/java/Atutorial/Ahibernate
 
 SQL DB: 
  
