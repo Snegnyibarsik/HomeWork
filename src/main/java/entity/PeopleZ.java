@@ -48,7 +48,7 @@ public void FirstEpidZZemic (PeopleZ p) {
 	p.EpidZZemic(p,p.idZ,p.nameZ);
 }
 
-//Метод для тзвлечения данных в виде структуры через оекурсию
+//Метод для извлечения данных в виде структуры через рекурсию
 public void EpidZZemic(PeopleZ p, Integer idZ, String nameZ)
 {
     if(p==null || p.getInfected()==null) return;
