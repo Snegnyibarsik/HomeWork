@@ -31,6 +31,7 @@ SQL DB: <br>
 -Person: id 22, name Галина, iid 9.<br>
 <br>
  Structure of DB: <br>
+ <pre><code>
                                           --Иван<br>
                                              -Николай<br>
                                                 -Полина<br>
@@ -52,3 +53,4 @@ SQL DB: <br>
                                                 -Илья<br>
                                                 -Геннадий<br>
                                              -Ольга<br>
+                                             </code></pre>
