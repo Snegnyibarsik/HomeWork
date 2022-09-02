@@ -4,7 +4,6 @@
 Result by Run AppZ.java<br>
 https://github.com/Snegnyibarsik/HomeWork/tree/master/src/main/java/Atutorial/Ahibernate<br>
 <br>
-!!!!Please push RAW button or Source blob!!!!<br>
 <br>
 SQL DB: <br>
  <br>
