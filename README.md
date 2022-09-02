@@ -1,6 +1,4 @@
 # HomeWork
-
-# HomeWork
 Result by Run AppZ.java<br>
 https://github.com/Snegnyibarsik/HomeWork/tree/master/src/main/java/Atutorial/Ahibernate<br>
 <br>
